@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+urllib3
+hashlib
+optparse
+functools
+lxml
